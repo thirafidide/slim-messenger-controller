@@ -37,3 +37,6 @@ $container['bot'] = function($c) {
 //slim routes
 $app->any('/webhook[/]', $container['bot']);
 ```
+
+## Documentation
+see [DOCUMENTATION](https://raw.githubusercontent.com/iamn00b/slim-messenger-controller/master/DOCUMENTATION.md)
