@@ -1,6 +1,7 @@
 Slim Messenger Controller
 ===============================
 [![Build Status](https://travis-ci.org/iamn00b/slim-messenger-controller.svg?branch=master-dev)](https://travis-ci.org/iamn00b/slim-messenger-controller)
+[![GitHub license](https://img.shields.io/badge/license-BSD--2-blue.svg)](https://raw.githubusercontent.com/iamn00b/slim-messenger-controller/master/LICENSE.md)
 Easily set up your SlimPHP Routes to integrate with Facebook's Messenger Bot API. Slim Messenger Controller intended
 to be a RESTful Controller to be used by SlimPHP routes, and easily set up to be injected at SlimPHP Container. While
 this is created for SlimPHP, Slim Messenger Controller can be used as controller at any framework that implement PSR7 
