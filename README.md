@@ -10,7 +10,7 @@ interfaces for its Request and Response objects
 
 ## Installation
 ```bash
-composer install slim-messenger/controller
+composer require slim-messenger/controller
 ```
 
 ## Usage
