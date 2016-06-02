@@ -1,6 +1,6 @@
 Slim Messenger Controller
 ===============================
-[![Build Status](https://travis-ci.org/iamn00b/slim-messenger-controller.svg?branch=master-dev)](https://travis-ci.org/iamn00b/slim-messenger-controller)
+[![Build Status](https://travis-ci.org/iamn00b/slim-messenger-controller.svg?branch=master)](https://travis-ci.org/iamn00b/slim-messenger-controller)
 [![GitHub license](https://img.shields.io/badge/license-BSD--2-blue.svg)](https://raw.githubusercontent.com/iamn00b/slim-messenger-controller/master/LICENSE.md)
 
 Easily set up your SlimPHP Routes to integrate with Facebook's Messenger Bot API. Slim Messenger Controller intended
