@@ -10,7 +10,7 @@ interfaces for its Request and Response objects
 
 ## Installation
 ```bash
-composer require slim-messenger/controller
+composer require slim-messenger/controllerx 
 ```
 
 ## Usage
@@ -44,3 +44,13 @@ $app->any('/webhook[/]', $container['bot']);
 
 ## Documentation
 see [DOCUMENTATION](https://raw.githubusercontent.com/iamn00b/slim-messenger-controller/master/DOCUMENTATION.md)
+
+## Development
+```bash
+composer install
+```
+
+### Testing
+```bash
+phpunit --bootstrap tests/autoload.php test
+```
