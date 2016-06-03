@@ -40,7 +40,7 @@ class Controller extends EventEmitter
         $messaging_events = $parsedBody['entry'][0]['messaging'];
 
         foreach ($messaging_events as $event) {
-            $sender = $event['sender']['id'];
+            $senderId = $event['sender']['id'];
 
             if (isset($event['message']['text'])) 
             {
